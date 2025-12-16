@@ -1,1 +1,8 @@
 ![Page1](DesignImages/Page1.png)
+![Page2](DesignImages/Page2.png)
+![Page3](DesignImages/Page3.png)
+![ClassDiagram](DesignImages/ClassDiagram.jpg)
+![Page4](DesignImages/Page4.png)
+![Page5](DesignImages/Page5.png)
+![Page6](DesignImages/Page6.png)
+![Page7](DesignImages/Page7.png)
